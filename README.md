@@ -2,7 +2,7 @@
 
 This repository contains the D3 assignment submitted by Bhavesh Sharma.
 
-! [Earth] (https://www.sciencealert.com/the-earth-is-moving-substantially-less-because-of-the-global-pandemic)
+! [My assignment preview] 
 
 ## Instructions:
 
