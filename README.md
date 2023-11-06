@@ -2,7 +2,7 @@ D3_assignment_2550777
 
 This repository contains the D3 assignment submitted by Bhavesh Sharma.
 
-##Instructions:
+## Instructions:
 
 1. Open the whole folder in Visual Studio Code.
 2. Select the bhavesh_sharma_2550777.html file.
