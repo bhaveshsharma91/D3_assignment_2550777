@@ -2,7 +2,7 @@
 
 This repository contains the D3 assignment submitted by Bhavesh Sharma.
 
-! [My assignment preview](https://github.com/bhaveshsharma91/D3_assignment_2550777/blob/main/preview.png)
+![My assignment preview](https://github.com/bhaveshsharma91/D3_assignment_2550777/blob/main/preview.png)
 
 ## Instructions:
 
